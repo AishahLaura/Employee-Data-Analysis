@@ -4,6 +4,7 @@ This project is an analysis on an employee data for a company with frequent attr
 **Methodolgy**
 **The analysis makes use of these python libraries:**
 pandas for data reading and manipulation, numpy for numerical operations, matplotlib for visualization seaborn for enhanced visualization, scikit-learn for preprocessing categorical data.
+
 The categorical variables like gender' and 'overtime' were encoded using the mapping and LabelEncoder to enhance numerical analysis.
 **Key Findings**
 **Summary Statistics**
